@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <div>Section one</div>
+        <div class="div2">Section two</div>
+        <div> section three</div>
+    </body>
+</html>
